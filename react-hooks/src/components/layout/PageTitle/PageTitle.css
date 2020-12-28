@@ -1,0 +1,16 @@
+blockquote {
+    margin-left: -4px;
+    border-left:#009900 2px double;
+    background:#f0fff0;
+    color:#006600;
+    height: 120px;
+}
+
+blockquote h1 {
+    margin-left: 10px;
+}
+
+blockquote p {
+    font-size: 25px;
+    margin-left: 10px;
+}

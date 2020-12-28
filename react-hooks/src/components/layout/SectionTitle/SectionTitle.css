@@ -1,0 +1,13 @@
+.sectionTitle {
+    margin-top: 20px;
+}
+
+.sectionTitle h1 {
+    font-size: 20px;
+    color:#006600;
+}
+
+.sectionTitle hr {
+    background-color:#006600;
+    height: 1px;
+}
