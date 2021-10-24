@@ -1,0 +1,22 @@
+{
+  "name": "sistemalogin",
+  "version": "1.0.0",
+  "description": "Sistema de login",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js --production",
+    "dev": "nodemon src/index.js --development",
+    "test": ""
+  },
+  "author": "Fernando Marques",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
